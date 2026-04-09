@@ -1,0 +1,8 @@
+{
+  "name": "seos-takip",
+  "version": "1.0.0",
+  "description": "SEÖS Veri Takip Uygulaması",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}

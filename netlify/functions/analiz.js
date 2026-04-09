@@ -829,3 +829,6 @@ function hesaplaAnaliz(tesis, firin, rawRows, settingsOverride, limitsOverride) 
 
   return { gunlukOzet, aylikOzet };
 }
+  }
+};
+
